@@ -58,3 +58,13 @@ III.	Développement du projet Nath-shop
 Ces outils offrent une flexibilité, une bonne gestion des produits, et une interface conviviale pour l’administrateur.
 2. Structure du site  
    - Page d’accueil: permet aux different clients de voir notre produit
+
+<img width="949" alt="Image" src="https://github.com/user-attachments/assets/17167928-4ec0-4bdd-b3ab-aa532fe0f16c" />
+
+<img width="942" alt="Image" src="https://github.com/user-attachments/assets/91519440-b2e2-4b3a-aaae-7677bfe1723d" />
+
+<img width="938" alt="Image" src="https://github.com/user-attachments/assets/acd10c53-6804-46e1-a62d-7a770a82e404" />
+
+<img width="940" alt="Image" src="https://github.com/user-attachments/assets/d0c00661-7c13-43a0-a66f-2c0a1f95b60c" />
+
+<img width="406" alt="Image" src="https://github.com/user-attachments/assets/3ccd78a5-e36d-4921-8b08-79a90856c6a6" />
